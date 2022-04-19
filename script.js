@@ -29,6 +29,13 @@ function specialCharacter() {
 }
 
 // Generate and write the password 
+function generatePassword() {
+  passwordLength();
+  lowerCase();
+  upperCase();
+  numerics();
+  specialCharacter();
+}
 
 // Write password to the #password input
 // function writePassword() {
