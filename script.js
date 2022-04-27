@@ -22,12 +22,14 @@ if (Number.isNaN (length)) {
 
 if (length < 8) {
   alert ("passworth length has to be 8 characters or more");
-  return "password not generated";
+  // return "password not generated";
+  passwordLength();
 }
 
 if (length > 128) {
   alert ("passworth length has to be 128 characters or less");
-  return "password not generated";
+  // return "password not generated";
+  passwordLength();
 }
 
 }
