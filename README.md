@@ -1,20 +1,47 @@
-# Password-Generator
+# code_refactor
+![Thumbnail](images/code_refactor.jpeg)(https://justin-morrow.github.io/code_refactor/)
+## Table of Contents
 
-## Acceptance Criteria
+- [Description](#Description)
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+- [Installation](#Installation)
+
+- [Instructions](#Instructions)
+
+- [License](#License)
+
+- [Contribute](#Contribute)
+
+- [Tests](#Tests)
+
+- [Questions](#Questions)
+
+## Description
+
+The project is an assignment that asks for the web developer to edit the password generator and add specific criteria in order to generate a password between 8 to 128 characters, using upper case, lower case, special characters, and numbers.
+
+## Installation
+
+The program requires a basic opearting system such as windows or iOS needs a web browswer. 
+
+## Instructions
+
+Use HTML and CSS and javascript to define structure, function and style into the webpage from its previous version. Use GITHUB to push the website into a respository for public view.
+
+## License
+
+This application is covered under the GNU GPLv3.0 License.
+
+## Contribute
+
+Justin Morrow
+
+## Tests
+
+No Tests.
+
+## Questions
+
+If you have questions, please contact me at the information below:
+
+GitHub: [Justin Morrow](https://github.com/Justin-Morrow)
