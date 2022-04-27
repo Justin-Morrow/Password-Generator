@@ -1,5 +1,5 @@
-# code_refactor
-![Thumbnail](images/code_refactor.jpeg)(https://justin-morrow.github.io/code_refactor/)
+# Password-Generator
+![Thumbnail](pwgenerator.png)(https://justin-morrow.github.io/Password-Generator/)
 ## Table of Contents
 
 - [Description](#Description)
